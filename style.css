@@ -2,6 +2,8 @@ h1 {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   color: hotpink;
   font-size: 5rem;
+  display: grid;
+  place-content: center;
 }
 
 p {
